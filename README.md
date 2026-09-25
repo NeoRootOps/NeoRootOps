@@ -29,7 +29,7 @@ Ce GitHub regroupe mes projets, scripts et travaux personnels, reflet d’une pr
 ---
 </br>
 
-### 🎓 Formations & Certifications
+## 🎓 Formations & Certifications
 Voici les formations qui ont structuré mon parcours et renforcé mes compétences techniques :
 
 - **Technicien Supérieur Systèmes et Réseaux (TSSR)**  
