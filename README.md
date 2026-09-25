@@ -8,28 +8,39 @@
 </br>
 
 ## Présentation
-Technicien Supérieur Systèmes et Réseaux, je m’attache à structurer, optimiser et documenter chaque projet technique sur lequel je travaille.
-Mon homelab me permet d’expérimenter, tester et renforcer mes compétences au quotidien. </br>
-Ce GitHub regroupe mes projets, scripts et travaux personnels dans une démarche d’amélioration continue. </br>
+Bonjour, méthodique et structuré, je m’attache à optimiser et documenter chaque projet technique sur lequel je travaille. </br>
+Mon homelab me permet d’expérimenter, tester et renforcer mes compétences au quotidien, dans une démarche d’apprentissage continue. </br>
+Ce GitHub regroupe mes projets, scripts et travaux personnels, reflet d’une progression constante et d’un intérêt marqué pour les environnements techniques. </br>
 
 <p align="center">
-<em><b>Mon objectif est de renforcer mes acquis techniques et de bâtir une solide expertise dans ce domaine en constante évolution.</b></em>
+<em><b>Mon objectif est de consolider mes acquis et de développer une expertise solide dans un domaine en évolution permanente.</b></em>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Windows-005bbb?logo=windows&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Scripting-PowerShell-2C2D72?logo=powershell&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Cybersécurité-darkblue?logo=hackaday&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Scripting-PowerShell-2C5282?logo=powershell&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Cybersécurité-red?logo=hackaday&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Zero%20Trust-red?logo=shield&logoColor=white"/>
 </p>
 
 ---
+</br>
 
-## Formations & Certifications
-- [**Technicien Supérieur Systèmes et Réseaux (TSSR)**](https://site-informatique.info/course/tssr/)
-- [**Hacking Éthique Le cours complet**](https://cyberini.com/cours/)
-- [**Mooc Cyberini**](https://cyberini.com/cours/)
+### 🎓 Formations & Certifications
+Voici les formations qui ont structuré mon parcours et renforcé mes compétences techniques :
+
+- **Technicien Supérieur Systèmes et Réseaux (TSSR)**  
+  Formation orientée administration, réseau, sécurité et systèmes Windows/Linux.
+
+- **Hacking Éthique – Le cours complet**  
+  Approche pratique des tests d’intrusion et des fondamentaux de la cybersécurité.
+
+- **Mooc Cyberini**  
+  Sensibilisation aux bonnes pratiques de sécurité et aux risques cyber.
+
+  
+</br>
 
 ---
 
