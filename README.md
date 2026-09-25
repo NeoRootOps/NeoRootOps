@@ -9,8 +9,10 @@
 
 ## Présentation
 Bonjour, méthodique et structuré, je m’attache à optimiser et documenter chaque projet technique sur lequel je travaille. </br>
-Mon homelab me permet d’expérimenter, tester et renforcer mes compétences au quotidien, dans une démarche d’apprentissage continue. </br>
-Ce GitHub regroupe mes projets, scripts et travaux personnels, reflet d’une progression constante et d’un intérêt marqué pour les environnements techniques. </br>
+Mon homelab me permet d’expérimenter, tester et renforcer mes compétences au quotidien, dans une démarche d’apprentissage continue.
+Ce GitHub regroupe mes projets, scripts et travaux personnels, reflet d’une progression constante et d’un intérêt marqué pour les environnements techniques. 
+
+</br>
 
 <p align="center">
 <em><b>Mon objectif est de consolider mes acquis et de développer une expertise solide dans un domaine en évolution permanente.</b></em>
