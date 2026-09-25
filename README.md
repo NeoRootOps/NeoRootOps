@@ -47,28 +47,33 @@ Voici les formations qui ont structuré mon parcours et renforcé mes compétenc
 
 ---
 
-### Domaines de compétences
+</br>
+
+## Domaines de compétences
 
 **Systèmes**  
-Windows • Linux • MacOS  
+• Windows • Linux • MacOs  
 
 **Réseaux**  
-TCP/IP • VLAN • DHCP • DHCP Relay • DNS • VPN • PfSense • Cisco  
+• TCP/IP • VLAN • DHCP / DHCP Relay • DNS  
+• VPN • PfSense • Cisco  
 
 **Automatisation**  
-PowerShell • Bash  
+• PowerShell • Bash  
 
 **Sécurité**  
-Durcissement • Analyse  
+• Durcissement • Analyse  
 
 **Virtualisation**  
-Proxmox VE • VMware • Hyper‑V  
+• Proxmox VE • VMware • Hyper‑V  
 
 **Supervision**  
-Nagios • Zabbix  
+• Nagios • Zabbix  
 
 **Documentation**  
-Markdown structuré • Word • PDF
+• Markdown structuré • Word • PDF
+
+</br>
 
 ---
 
