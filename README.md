@@ -30,16 +30,17 @@ Ce GitHub regroupe mes projets, scripts et travaux personnels, reflet d’une pr
 </br>
 
 ## Formations & Certifications
+
 Voici les formations qui ont structuré mon parcours et renforcé mes compétences techniques :
 
 - **Technicien Supérieur Systèmes et Réseaux (TSSR)**  
-  Formation orientée administration, réseau, sécurité et systèmes Windows/Linux.
+  Apprendre l’administration, le réseau et la sécurité sur environnements Windows et Linux.
 
 - **Hacking Éthique – Le cours complet**  
-  Approche pratique des tests d’intrusion et des fondamentaux de la cybersécurité.
+  Approfondir les tests d’intrusion et les fondamentaux de la cybersécurité.
 
 - **Mooc Cyberini**  
-  Sensibilisation aux bonnes pratiques de sécurité et aux risques cyber.
+  Comprendre les bonnes pratiques de sécurité et la gestion des risques cyber.
 
   
 </br>
