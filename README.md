@@ -51,24 +51,27 @@ Voici les formations qui ont structuré mon parcours et renforcé mes compétenc
 
 ## Domaines de compétences
 
-**Systèmes**  
-Windows • Linux • MacOs  
+**Support, Ticketing & Prise en main à distance**  
+GLPI • OCS Inventory • RustDesk • TeamViewer • RDS • Gestion des incidents (SLA)
 
-**Réseaux**  
-TCP/IP • VLAN • DHCP / DHCP Relay • DNS  
-VPN • PfSense • Cisco  
+**Administration Systèmes**  
+Active Directory (AD DS) • GPO • DNS • DHCP  
+Windows Server 2022 • Windows 10/11  
+Linux (Debian • LMDE • Kali • Ubuntu)  
+MacOS
 
-**Automatisation**  
-PowerShell • Bash  
+**Réseau, Sécurité & Virtualisation**  
+PfSense (VPN • pare-feu • NAT • VLAN • DHCP Relay)  
+Proxmox VE • VMware ESXi • Hyper‑V  
+Switchs Cisco
 
-**Sécurité**  
-Durcissement • Analyse  
+**Automatisation & Scripting**  
+PowerShell (création de comptes AD • automatisation de configurations)  
+Bash • CMD
 
-**Virtualisation**  
-Proxmox VE • VMware • Hyper‑V  
-
-**Supervision**  
-Nagios • Zabbix  
+**Supervision & Déploiement**  
+WDS/MDT • Masterisation de postes  
+Nagios • Zabbix
 
 **Documentation**  
 Markdown structuré • Word • PDF
