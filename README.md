@@ -75,7 +75,7 @@ WDS/MDT • Masterisation de postes / Déploiement
 Nagios • Zabbix
 
 **Documentation :**  
-Markdown structuré • Word • PDF
+Markdown structuré • Word • Powerpoint • PDF
 
 </br>
 
