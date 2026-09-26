@@ -63,7 +63,7 @@ MacOS
 
 **Réseau, Sécurité & Virtualisation :**  
 PfSense (VPN • pare-feu • NAT • VLAN • DHCP Relay)  
-Proxmox VE • VMware ESXi • Hyper‑V  
+Proxmox VE • VMware ESXI • Hyper‑V  
 Switchs Cisco
 
 **Automatisation & Scripting :**  
@@ -71,7 +71,7 @@ PowerShell (création de comptes AD • automatisation de configurations)
 Bash • CMD
 
 **Supervision & Déploiement :**  
-WDS/MDT • Masterisation de postes / Déploiement  
+WDS / MDT • Masterisation de postes / Déploiement  
 Nagios • Zabbix
 
 **Documentation :**  
