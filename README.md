@@ -93,7 +93,7 @@ Architecture personnelle permettant de tester, déployer et documenter des envir
 - Services réseau : PfSense (VLAN 802.1Q, DHCP Relay)
 
 Documentation complète disponible dans le dossier :
-📁 [`/Homelab`]
+📁 [`Homelab`]
 
 </br>
 
