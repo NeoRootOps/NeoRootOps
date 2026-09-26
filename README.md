@@ -81,6 +81,8 @@ Markdown structuré • Word • Powerpoint • PDF
 
 ---
 
+</br>
+
 ## Homelab
 Architecture personnelle permettant de tester, déployer et documenter des environnements techniques.
 
@@ -91,6 +93,8 @@ Architecture personnelle permettant de tester, déployer et documenter des envir
 - Services réseau : PfSense (VLAN 802.1Q, DHCP Relay)  
 
 Documentation complète disponible dans le dossier **/Homelab**.
+
+</br>
 
 ---
 
