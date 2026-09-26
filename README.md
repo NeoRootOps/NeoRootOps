@@ -86,7 +86,8 @@ Architecture personnelle permettant de tester, déployer et documenter des envir
 
 ### Contenu du homelab :
 - Virtualisation : Proxmox VE
-- Serveurs : Windows Server 2022 (DHCP, DNS)  
+- Serveurs : Windows Server 2022 (DHCP, DNS)
+- Serveur de fichiers et de stockage  
 - Services réseau : PfSense (VLAN 802.1Q, DHCP Relay)  
 
 Documentation complète disponible dans le dossier **/Homelab**.
