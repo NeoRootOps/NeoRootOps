@@ -64,7 +64,7 @@ MacOS
 **Réseau, Sécurité & Virtualisation :**  
 PfSense (VPN • pare-feu • NAT • VLAN • DHCP Relay)  
 Proxmox VE • VMware ESXI • Hyper‑V  
-Switchs Cisco
+Switchs & Routeurs Cisco
 
 **Automatisation & Scripting :**  
 PowerShell (création de comptes AD • automatisation de configurations)  
@@ -85,10 +85,9 @@ Markdown structuré • Word • Powerpoint • PDF
 Architecture personnelle permettant de tester, déployer et documenter des environnements techniques.
 
 ### Contenu du homelab :
-- Serveurs : Windows Server  
-- Services réseau : PfSense (DHCP, DNS, NTP, VPN, DHCP Relay)  
 - Virtualisation : Proxmox VE
-- Environnements de test pour scripts PowerShell / Bash
+- Serveurs : Windows Server 2022 (DHCP, DNS)  
+- Services réseau : PfSense (VLAN 802.1Q, DHCP Relay)  
 
 Documentation complète disponible dans le dossier **/Homelab**.
 
