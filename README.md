@@ -27,7 +27,7 @@ Ce GitHub reflète mon apprentissage continu à travers des projets concrets en 
 </br>
 </br>
 
->## Formations & Certifications
+>## Formations
 
 Voici les formations qui ont structuré mon parcours et renforcé mes compétences techniques :
 
