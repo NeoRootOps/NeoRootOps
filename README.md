@@ -6,17 +6,15 @@
 </div>
 
 </br>
-
-## Présentation
-Bonjour, méthodique et structuré, je m’attache à optimiser et documenter chaque projet technique sur lequel je travaille. </br>
-Mon homelab me permet d’expérimenter, tester et renforcer mes compétences au quotidien, dans une démarche d’apprentissage continue.
-Ce GitHub regroupe mes projets, scripts et travaux personnels, reflet d’une progression constante et d’un intérêt marqué pour les environnements techniques. 
-
 </br>
 
-<p align="center">
-<em><b>Mon objectif est de consolider mes acquis et de développer une expertise solide dans un domaine en évolution permanente.</b></em>
-</p>
+>## Présentation
+🔹 Homelab 🔹 Systèmes 🔹 Réseaux 🔹 Cybersécurité
+
+J'expérimente, documente et automatise différents projets techniques afin de développer mes compétences et partager mes réalisations.
+Ce GitHub reflète mon apprentissage continu à travers des projets concrets en systèmes, réseaux et cybersécurité.
+
+</br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
@@ -26,10 +24,10 @@ Ce GitHub regroupe mes projets, scripts et travaux personnels, reflet d’une pr
 <img src="https://img.shields.io/badge/Zero%20Trust-red?logo=shield&logoColor=white"/>
 </p>
 
----
+</br>
 </br>
 
-## Formations & Certifications
+>## Formations & Certifications
 
 Voici les formations qui ont structuré mon parcours et renforcé mes compétences techniques :
 
@@ -44,46 +42,32 @@ Voici les formations qui ont structuré mon parcours et renforcé mes compétenc
 
   
 </br>
-
----
-
 </br>
 
-## Domaines de compétences
+>## Domaines de compétences
 
-**Support, Ticketing & Prise en main à distance :**  
-GLPI • OCS Inventory • Gestion des incidents (SLA)  
-RustDesk • TeamViewer • RDS
+🖥️ Administration Systèmes  
+Windows Server • Active Directory • Linux • macOS
 
-**Administration Systèmes :**  
-Active Directory (AD DS • GPO • DNS • DHCP)  
-Windows Server 2022 • Windows 10/11  
-Linux (Debian • LMDE • Kali • Ubuntu)  
-MacOS
+🌐 Réseau & Sécurité  
+PfSense • VLAN • VPN • Cisco • DNS • DHCP
 
-**Réseau, Sécurité & Virtualisation :**  
-PfSense (VPN • pare-feu • NAT • VLAN • DHCP Relay)  
-Proxmox VE • VMware ESXI • Hyper‑V  
-Switchs & Routeurs Cisco
+🖧 Virtualisation  
+Proxmox VE • VMware ESXi • Hyper-V
 
-**Automatisation & Scripting :**  
-PowerShell (création de comptes AD • automatisation de configurations)  
-Bash • CMD
+🤖 Automatisation  
+PowerShell • Bash • CMD
 
-**Supervision & Déploiement :**  
-WDS / MDT • Masterisation de postes / Déploiement  
-Nagios • Zabbix
+📊 Déploiement & Supervision  
+MDT • WDS • Nagios • Zabbix
 
-**Documentation :**  
-Markdown structuré • Word • Powerpoint • PDF
+📚 Documentation Technique  
+Markdown • Procédures • Documentation de projets
 
 </br>
-
----
-
 </br>
 
-## Homelab
+>## Homelab
 Architecture personnelle permettant de tester, déployer et documenter des environnements techniques.
 
 ### Contenu du homelab :
@@ -96,10 +80,9 @@ Documentation complète disponible dans le dossier :
 📁 [`Homelab`](https://github.com/NeoRootOps/Portfolio_NeoRoot/Homelab)
 
 </br>
+</br>
 
----
-
-## Projets
+>## Projets
 Liste des projets techniques disponibles sur ce GitHub.
 
 ### Exemples :
@@ -123,9 +106,10 @@ Chaque projet contient :
 - les tests  
 - les notes techniques
 
----
+</br>
+</br>
 
-## Scripts
+>## Scripts
 Scripts PowerShell et Bash utilisés dans mes environnements.
 
 ### PowerShell
@@ -141,24 +125,26 @@ df -h | grep /dev/sda1
 
 Scripts complets disponibles dans **/Scripts**.
 
----
+</br>
+</br>
 
-## Objectifs & Roadmap
+>## Objectifs & Roadmap
 - Approfondissement de l’automatisation PowerShell  
 - Mise en place d’un monitoring avancé  
 - Déploiement d’un cluster Proxmox  
 - Renforcement des compétences en sécurité  
 - Documentation complète de tous les services du homelab
 
----
+</br>
+</br>
 
-## Contact
+>## Contact
 - LinkedIn  
 - Email professionnel  
 - Portfolio (si applicable)
 
----
+</br>
 
-## Notes
+>## Notes
 Ce GitHub est en évolution constante.  
 Chaque projet est documenté de manière claire, hiérarchisée et orientée production.
