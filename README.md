@@ -115,12 +115,14 @@ Scripts PowerShell et Bash utilisés dans mes environnements.
 ### PowerShell
 ```powershell
 Get-Process | Sort-Object CPU -Descending
+
 ```
 
 ### Bash
 ```bash
 #!/bin/bash
 df -h | grep /dev/sda1
+
 ```
 
 Scripts complets disponibles dans **/Scripts**.
