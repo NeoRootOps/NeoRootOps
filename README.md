@@ -85,9 +85,7 @@ Documentation complète disponible dans le dossier :
 >## Projets
 Liste des projets techniques disponibles sur ce GitHub.
 
-### Exemples :
-- **DHCP sous Debian**  
-  Configuration complète, architecture, scripts, tests.
+- **Architecture Réseau Virtualisée**  
 
 - **Infrastructure multi‑VLAN**  
   Segmentation réseau, routage, supervision.
